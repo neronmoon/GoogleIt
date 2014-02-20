@@ -1,0 +1,4 @@
+GoogleIt
+========
+
+Intellij idea plugin
